@@ -1,0 +1,37 @@
+{
+  "categoryName": "Смішні Мавпочки",
+  "items": [
+    {
+      "id": 1,
+      "name": "Мавпочка 1",
+      "shortname": "mavpochka1",
+      "description": "1",
+      "price": "750 грн",
+      "image": "images/monkeys/smishanMavpochka1.png"
+    },
+    {
+      "id": 2,
+      "name": "Мавпочка 2",
+      "shortname": "mavpochka2",
+      "description": "2",
+      "price": "800 грн",
+      "image": "images/monkeys/smishanMavpochka2.png"
+    },
+    {
+      "id": 3,
+      "name": "Мавпочка 3",
+      "shortname": "mavpochka3",
+      "description": "3",
+      "price": "850 грн",
+      "image": "images/monkeys/smishanMavpochka3.png"
+    },
+    {
+      "id": 4,
+      "name": "Мавпочка 4",
+      "shortname": "mavpochka4",
+      "description": "4",
+      "price": "900 грн",
+      "image": "images/monkeys/smishanMavpochka4.png"
+    }
+  ]
+}

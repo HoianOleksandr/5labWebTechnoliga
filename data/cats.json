@@ -1,0 +1,37 @@
+{
+  "categoryName": "Котики",
+  "items": [
+    {
+      "id": 1,
+      "name": "Котик 1",
+      "shortname": "kotik1",
+      "description": "1",
+      "price": "500 грн",
+      "image": "images/cats/kotik1.png"
+    },
+    {
+      "id": 2,
+      "name": "Котик 2",
+      "shortname": "kotik2",
+      "description": "2",
+      "price": "450 грн",
+      "image": "images/cats/kotik2.png"
+    },
+    {
+      "id": 3,
+      "name": "Котик 3",
+      "shortname": "kotik3",
+      "description": "3",
+      "price": "600 грн",
+      "image": "images/cats/kotik3.png"
+    },
+    {
+      "id": 4,
+      "name": "Котик 4",
+      "shortname": "kotik4",
+      "description": "4",
+      "price": "550 грн",
+      "image": "images/cats/kotik4.png"
+    }
+  ]
+}

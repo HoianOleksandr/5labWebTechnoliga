@@ -1,0 +1,37 @@
+{
+  "categoryName": "Ігри",
+  "items": [
+    {
+      "id": 1,
+      "name": "Civilization VI",
+      "shortname": "civ6",
+      "description": "Епічна стратегічна гра, де ви будуєте цивілізацію з нуля до космічної ери. Керуйте великими лідерами, розвивайте науку, культуру та армію.",
+      "price": "1299 грн",
+      "image": "images/games/game1.png"
+    },
+    {
+      "id": 2,
+      "name": "The Witcher 3: Wild Hunt",
+      "shortname": "witcher3",
+      "description": "Легендарна RPG про відьмака Геральта з Рівії. Досліджуйте величезний відкритий світ, полюйте на монстрів та приймайте важливі рішення.",
+      "price": "899 грн",
+      "image": "images/games/game2.png"
+    },
+    {
+      "id": 3,
+      "name": "The Forest",
+      "shortname": "forest",
+      "description": "Survival horror гра про виживання на таємничому острові. Будуйте укриття, добувайте ресурси та захищайтесь від канібалів.",
+      "price": "549 грн",
+      "image": "images/games/game3.png"
+    },
+    {
+      "id": 4,
+      "name": "Alice: Madness Returns",
+      "shortname": "alice",
+      "description": "Темна та атмосферна пригодницька гра про Алісу, яка повертається до покрученої Країни Чудес. Психологічний трилер з унікальним стилем.",
+      "price": "399 грн",
+      "image": "images/games/game4.png"
+    }
+  ]
+}
